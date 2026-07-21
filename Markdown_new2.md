@@ -1,2 +1,0 @@
-dvbc nvb
-sdvvcd
